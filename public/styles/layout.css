@@ -21,10 +21,18 @@ main.container {
   width: 500px;
   margin: 0 auto;
   background-color: white;
-  padding-top: 120px;
+  padding: 20px;
+  padding-top: 100px;
 
 }
 
+.compose-tweets {
+  float: right;
+  position: relative;
+  top: 10px;
+}
+
+<input type="button" class="compose-tweets" value="Compose">
 
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions

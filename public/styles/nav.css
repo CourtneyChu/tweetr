@@ -7,6 +7,8 @@ nav {
   width: 100%;
   padding-left: 2em;
   padding-right: 2em;
+  position: fixed;
+  z-index:10;
 
 }
 
@@ -23,4 +25,21 @@ nav {
   font-size: 200%;
   line-height: 75px;
   float: left;
+}
+#nav-bar .compose-tweets:hover {
+ border: 2px solid #6BBAA7;
+}
+
+
+#nav-bar .compose-tweets {
+    background-color: #FBA100; /* Green */
+    border: 3px #FBA100;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    top: 15px;
 }
