@@ -10,26 +10,21 @@ html {
   box-sizing: inherit;
 }
 
-
-/*
- * Global layout stuff
- */
-
 body {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin: 0;
   color: #244751;
   background-color: #eee;
 }
 
-main {
-  text-align: center;
-  width: 450px;
+main.container {
+  width: 500px;
   margin: 0 auto;
-  margin-top: 200px;
-  background: #d1d1e0;
+  background-color: white;
+  padding-top: 120px;
 
 }
+
 
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions

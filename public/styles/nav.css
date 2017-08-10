@@ -1,7 +1,7 @@
 
 
 nav {
-  background: #00a087;
+  background: #6C648B;
   top: 0;
   height: 80px;
   width: 100%;
@@ -19,7 +19,7 @@ nav {
 }
 
 #nav-bar .header {
-  color: #e8fdff;
+  color: white;
   font-size: 200%;
   line-height: 75px;
   float: left;
