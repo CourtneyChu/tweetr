@@ -8,7 +8,6 @@ Tweeter is a simple, single-page Twitter clone.
 !["Screensot of error message for no tweet"](https://github.com/CourtneyChu/tweetr/blob/master/docs/error.png)
 !["Screensot of page with composer toggled to be visible"](https://github.com/CourtneyChu/tweetr/blob/master/docs/toggled%20visible.png)
 !["Screensot of page with composer toggled to be invisible"](https://github.com/CourtneyChu/tweetr/blob/master/docs/toggled%20invisble.png)
-!["Screensot of tweet posted"](https://github.com/CourtneyChu/tweetr/blob/master/docs/posted%20tweet.png)
 
 ## Dependencies include:
 
