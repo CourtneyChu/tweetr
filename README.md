@@ -2,7 +2,7 @@
 
 Tweeter is a simple, single-page Twitter clone.
 
-## Final Project
+## Screenshots
 
 !["Screensot of tweet being written"](https://github.com/CourtneyChu/tweetr/blob/master/docs/tweeting.png)
 !["Screensot of error message for no tweet"](https://github.com/CourtneyChu/tweetr/blob/master/docs/error.png)
@@ -11,9 +11,13 @@ Tweeter is a simple, single-page Twitter clone.
 !["Screensot of tweet posted"](https://github.com/CourtneyChu/tweetr/blob/master/docs/posted%20tweet.png)
 
 ## Dependencies include:
+
 -body-parser
+
 -chance
+
 -express
+
 -mongodb
 
 ## Getting Started
