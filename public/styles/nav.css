@@ -1,7 +1,7 @@
 
 
 nav {
-  background: #6C648B;
+  background: #F48b94;
   top: 0;
   height: 80px;
   width: 100%;
@@ -27,12 +27,12 @@ nav {
   float: left;
 }
 #nav-bar .compose-tweets:hover {
- border: 2px solid #6BBAA7;
+ border: 2px solid white;
 }
 
 
 #nav-bar .compose-tweets {
-    background-color: #FBA100; /* Green */
+    background-color: #FDD2B5;
     border: 3px #FBA100;
     color: white;
     padding: 10px 15px;

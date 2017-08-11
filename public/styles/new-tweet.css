@@ -1,8 +1,11 @@
 .new-tweet {
   border: solid 1.5px #cdcdcd;
   border-radius: 10px;
-  background-color: #6BBAA7;
+  background-color: #ACDBC9;
   padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  display: none;
 
 }
 
@@ -13,18 +16,16 @@
 
 .new-tweet textarea {
   display: block;
-  width: 90%;
+  width: 100%;
 }
 
 .new-tweet input {
-  margin: 10px 0px 10px 22px;
+  margin-top: 5px;
 }
 
 .new-tweet .counter {
   float: right;
-  margin: 13px 23px 0px 0px;
-}
+  margin-top: 5px;
+  color: grey;
 
-.new-tweet .red {
-  color: #FBA100;
 }

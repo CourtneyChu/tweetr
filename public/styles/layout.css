@@ -15,15 +15,31 @@ body {
   margin: 0;
   color: #244751;
   background-color: #eee;
+  background-image: url(https://graymalin.imgix.net/products/matira-beach-swimmers.jpg);
+  background-size: cover;
 }
 
 main.container {
   width: 500px;
   margin: 0 auto;
-  background-color: white;
+  background-color: rgba(255,255,255,0.5);
   padding: 20px;
   padding-top: 100px;
+  z-index: 1
 
+}
+
+.make-tweet {
+    background-color: #FDD2B5;
+    border: 3px #FBA100;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    top: 2px;
 }
 
 .compose-tweets {
@@ -32,8 +48,12 @@ main.container {
   top: 10px;
 }
 
-<input type="button" class="compose-tweets" value="Compose">
+.make-tweet:hover {
+background-color: #F48b94;
+}
 
-/*
- * Additional CSS can be defined below or in other CSS files, as per instructions
- */
+.tweet-action{
+  color: #355C7D;
+}
+
+}

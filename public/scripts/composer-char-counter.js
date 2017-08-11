@@ -1,4 +1,3 @@
-//var element = document.getElementByClassName('counter');
 
 $(document).ready(function(){ //jquery start
     var count = 140;
@@ -14,17 +13,10 @@ $(document).ready(function(){ //jquery start
          $(".counter").css('color','#ff0000');
       } else {
          $(".counter").html(newLen);
+         $(".counter").css('color','grey');
       }
 
     });
 
 });//end jquery
 
-
-
-// function callback() {
-//   alert('Hello once');
-//   console.log("does this work?")
-// }
-
-// element.addEventListener('click', callback);
