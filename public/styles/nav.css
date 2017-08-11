@@ -1,5 +1,3 @@
-
-
 nav {
   background: #F48b94;
   top: 0;
@@ -9,27 +7,7 @@ nav {
   padding-right: 2em;
   position: fixed;
   z-index:10;
-
 }
-
-
-#nav-bar .logo {
-  height: 80px;
-  width: 80px;
-  float: left;
-  margin-right: 10px;
-}
-
-#nav-bar .header {
-  color: white;
-  font-size: 200%;
-  line-height: 75px;
-  float: left;
-}
-#nav-bar .compose-tweets:hover {
- border: 2px solid white;
-}
-
 
 #nav-bar .compose-tweets {
     background-color: #FDD2B5;
@@ -42,4 +20,24 @@ nav {
     font-size: 16px;
     position: relative;
     top: 15px;
+    border-radius: 20px;
+}
+
+#nav-bar .compose-tweets:hover {
+ background-color: white;
+ color:#FDD2B5;
+}
+
+#nav-bar .header {
+  color: white;
+  font-size: 200%;
+  line-height: 75px;
+  float: left;
+}
+
+#nav-bar .logo {
+  height: 80px;
+  width: 80px;
+  float: left;
+  margin-right: 10px;
 }
