@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   $( ".compose-tweets" ).click(function() {
-    $(".new-tweet").toggle();
+    $(".new-tweet").slideToggle();
     $("textarea").focus();
   });
 

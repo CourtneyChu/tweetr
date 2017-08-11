@@ -10,6 +10,9 @@
   border-radius: 10px 10px 0 0;
   background-color: #F7A7A6;
   color: white;
+  border-bottom: 3px solid #ACDBC9;
+  padding-left: 5px;
+  padding-top: 5px;
 }
 
 .tweet-avatar {
@@ -27,17 +30,18 @@
 .tweet-handle {
   position: absolute;
   bottom: 2px;
-  right: 5px;
+  right: 10px;
 }
 
 .tweet-text{
   background-color: white;
+  padding: 20px 20px 20px 65px;
 }
 
 .module-footer {
   background-color: #F7A7A6;
   border-radius: 0 0 10px 10px;
-  padding: 8px;
+  padding: 20px 20px 10px 65px;
   color: white;
 }
 
@@ -50,7 +54,4 @@
   visibility: visible;
 }
 
-.tweet-text {
-  padding: 10px;
-}
 

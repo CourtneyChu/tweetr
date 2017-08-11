@@ -11,6 +11,7 @@ body {
   color: #244751;
   background-color: #eee;
   background-image: url(https://graymalin.imgix.net/products/matira-beach-swimmers.jpg);
+  background-attachment: fixed;
   background-size: cover;
 }
 

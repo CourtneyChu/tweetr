@@ -40,4 +40,5 @@ nav {
   width: 80px;
   float: left;
   margin-right: 10px;
+  filter: invert(100%);
 }
