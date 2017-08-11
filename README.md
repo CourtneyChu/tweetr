@@ -13,13 +13,11 @@ Tweeter is a simple, single-page Twitter clone.
 ## Dependencies include:
 
 -body-parser
-
 -chance
-
 -express
-
 -mongodb
 
 ## Getting Started
-Install all dependencies (using the 'npm install' command).
+
+To run this project, install all dependencies (using the 'npm install' command).
 Run the development web server using the 'npm run local' command.
